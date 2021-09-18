@@ -13,17 +13,11 @@ class BirdFaker:
         with open(filename) as f:
             self._birds.update([bird.strip() for bird in f])
 
-        all_descriptors = set()
-        all_varieties = set()
-
         for bird in self._birds:
             *descriptors, variety = bird.strip().split(" ")
 
-            all_descriptors.update(descriptors)
-            all_varieties.add(variety)
-
-        self._descriptors = list(set(self._descriptors) | all_descriptors)
-        self._varieties = list(set(self._varieties) | all_varieties)
+            self._descriptors.extend(descriptors)
+            self._varieties.append(variety)
 
     def fake_bird(self) -> str:
         num_descriptors = random.randrange(1, 4)
