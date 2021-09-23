@@ -29,6 +29,7 @@ class BirdFaker:
         if bird in self._birds:
             return self.fake_bird()
 
+        self._birds.add(bird)
         return bird
 
     def fake_birds(self) -> Iterator[str]:
