@@ -12,6 +12,11 @@ def main():
             f.write(bird_faker.fake_bird())
             f.write('\n')
 
+    fake_birder = BirdFaker()
+    fake_birder.train('./fake_birds.txt')
+    print(bird_faker._descriptor_weights)
+    print(fake_birder._descriptor_weights)
+
 
 if __name__ == "__main__":
     main()

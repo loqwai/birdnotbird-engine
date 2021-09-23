@@ -107,19 +107,15 @@ Aguiguan reed warbler
 Agulhas long-billed lark
 Ahanta spurfowl
 Ainley's storm petrel
-ʻAkekeʻe
-ʻAkiapolaʻau
-ʻAkikiki
-ʻAkohekohe
 Akun eagle-owl
 Alagoas antwren
 Alagoas curassow
 Alagoas foliage-gleaner
 Alagoas tyrannulet
 Alaotra grebe
+Albert's lyrebird
 Albertine owlet
 Albertine sooty boubou
-Albert's lyrebird
 Aldabra brush warbler
 Aldabra drongo
 Aldabra fody
@@ -201,7 +197,6 @@ Amethyst-throated mountaingem
 Amethyst-throated sunangel
 Ampay tapaculo
 Amsterdam albatross
-†Amsterdam wigeon
 Amur falcon
 Amur paradise flycatcher
 Anambra waxbill
@@ -263,22 +258,21 @@ Angolan slaty flycatcher
 Angolan swallow
 Angolan waxbill
 Anhinga
-ʻAnianiau
 Anjouan brush warbler
 Anjouan scops owl
 Anjouan sunbird
 Ankober serin
-Annam prinia
 Anna's hummingbird
+Annam prinia
 Annobón paradise flycatcher
 Annobón white-eye
 Ansorge's greenbul
+Ant-eating chat
 Antarctic petrel
 Antarctic prion
 Antarctic shag
 Antarctic tern
 Anteater chat
-Ant-eating chat
 Anthony's nightjar
 Antillean crested hummingbird
 Antillean euphonia
@@ -292,7 +286,6 @@ Antioquia brushfinch
 Antioquia wren
 Antipodean albatross
 Antipodes parakeet
-ʻApapane
 Apical flycatcher
 Aplomado falcon
 Apo myna
@@ -338,26 +331,26 @@ Aripuana antwren
 Arizona woodpecker
 Armenian gull
 Arnot's chat
+Arrow-marked babbler
 Arrowhead piculet
 Arrowhead warbler
-Arrow-marked babbler
 Ascension crake
 Ascension frigatebird
 Ascension night heron
-Ashambu laughingthrush
+Ash's lark
 Ash-breasted antbird
 Ash-breasted sierra finch
 Ash-breasted tit-tyrant
 Ash-browed spinetail
 Ash-colored cuckoo
 Ash-colored tapaculo
-Ash's lark
 Ash-throated antwren
 Ash-throated casiornis
 Ash-throated crake
 Ash-throated flycatcher
 Ash-throated gnateater
 Ash-winged antwren
+Ashambu laughingthrush
 Ashy bulbul
 Ashy cisticola
 Ashy drongo
@@ -531,10 +524,27 @@ Bamenda apalis
 Bananal antbird
 Bananaquit
 Banasura laughingthrush
-Banda myzomela
 Band-backed wren
 Band-bellied crake
 Band-bellied owl
+Band-rumped storm petrel
+Band-rumped swift
+Band-tailed antbird
+Band-tailed antshrike
+Band-tailed antwren
+Band-tailed barbthroat
+Band-tailed earthcreeper
+Band-tailed fruiteater
+Band-tailed guan
+Band-tailed hornero
+Band-tailed manakin
+Band-tailed nighthawk
+Band-tailed oropendola
+Band-tailed pigeon
+Band-tailed seedeater
+Band-tailed sierra finch
+Band-winged nightjar
+Banda myzomela
 Banded antbird
 Banded barbet
 Banded bay cuckoo
@@ -557,23 +567,6 @@ Banded whiteface
 Banded woodpecker
 Banded wren
 Banded yellow robin
-Band-rumped storm petrel
-Band-rumped swift
-Band-tailed antbird
-Band-tailed antshrike
-Band-tailed antwren
-Band-tailed barbthroat
-Band-tailed earthcreeper
-Band-tailed fruiteater
-Band-tailed guan
-Band-tailed hornero
-Band-tailed manakin
-Band-tailed nighthawk
-Band-tailed oropendola
-Band-tailed pigeon
-Band-tailed seedeater
-Band-tailed sierra finch
-Band-winged nightjar
 Banggai crow
 Banggai fruit dove
 Banggai jungle flycatcher
@@ -584,10 +577,7 @@ Bannerman's shearwater
 Bannerman's sunbird
 Bannerman's turaco
 Bannerman's weaver
-Barau's petrel
 Bar-backed partridge
-Barbados bullfinch
-Barbary partridge
 Bar-bellied cuckooshrike
 Bar-bellied pitta
 Bar-bellied woodcreeper
@@ -595,8 +585,27 @@ Bar-bellied woodpecker
 Bar-breasted firefinch
 Bar-breasted honeyeater
 Bar-breasted piculet
-Barbuda warbler
 Bar-crested antshrike
+Bar-headed goose
+Bar-shouldered dove
+Bar-tailed cuckoo-dove
+Bar-tailed godwit
+Bar-tailed lark
+Bar-tailed treecreeper
+Bar-tailed trogon
+Bar-throated apalis
+Bar-throated minla
+Bar-winged flycatcher-shrike
+Bar-winged oriole
+Bar-winged prinia
+Bar-winged rail
+Bar-winged weaver
+Bar-winged wood wren
+Bar-winged wren-babbler
+Barau's petrel
+Barbados bullfinch
+Barbary partridge
+Barbuda warbler
 Bare-cheeked babbler
 Bare-cheeked trogon
 Bare-crowned antbird
@@ -620,7 +629,6 @@ Bare-shanked screech owl
 Bare-throated bellbird
 Bare-throated tiger heron
 Bare-throated whistler
-Bar-headed goose
 Barka indigobird
 Barking imperial pigeon
 Barking owl
@@ -653,23 +661,8 @@ Barred tinamou
 Barred warbler
 Barred wren-warbler
 Barrow's goldeneye
-Bar-shouldered dove
-Bar-tailed cuckoo-dove
-Bar-tailed godwit
-Bar-tailed lark
-Bar-tailed treecreeper
-Bar-tailed trogon
-Bar-throated apalis
-Bar-throated minla
 Bartlett's tinamou
 Barusan cuckoo-dove
-Bar-winged flycatcher-shrike
-Bar-winged oriole
-Bar-winged prinia
-Bar-winged rail
-Bar-winged weaver
-Bar-winged wood wren
-Bar-winged wren-babbler
 Basra reed warbler
 Bassian thrush
 Bat falcon
@@ -689,7 +682,6 @@ Bay coucal
 Bay hornero
 Bay woodpecker
 Bay wren
-Baya weaver
 Bay-backed shrike
 Bay-breasted cuckoo
 Bay-breasted warbler
@@ -699,6 +691,7 @@ Bay-crowned brushfinch
 Bay-headed tanager
 Bay-ringed tyrannulet
 Bay-vented cotinga
+Baya weaver
 Beach kingfisher
 Beach stone-curlew
 Bearded barbet
@@ -743,19 +736,16 @@ Benguet bush warbler
 Bennett's woodpecker
 Berlepsch's canastero
 Berlepsch's tinamou
-†Bermuda flicker
-†Bermuda hawk
 Bermuda night heron
 Bermuda petrel
 Bermuda saw-whet owl
-†Bermuda towhee
 Bernier's teal
 Bernier's vanga
 Berthelot's pipit
 Bertoni's antbird
 Bertram's weaver
-Berylline hummingbird
 Beryl-spangled tanager
+Berylline hummingbird
 Besra
 Bewick's wren
 Bhutan laughingthrush
@@ -784,7 +774,6 @@ Bicolored wren
 Biddulph's ground jay
 Bimaculated lark
 Biscutate swift
-†Bishop's oo
 Bismarck black myzomela
 Bismarck crow
 Bismarck fantail
@@ -841,7 +830,6 @@ Black lark
 Black laughingthrush
 Black lory
 Black magpie
-†Black mamo
 Black manakin
 Black mannikin
 Black metaltail
@@ -1006,9 +994,6 @@ Black-browed fulvetta
 Black-browed greenbul
 Black-browed reed warbler
 Black-browed triller
-Blackburnian warbler
-Blackcap babbler
-Blackcap illadopsis
 Black-capped antwren
 Black-capped apalis
 Black-capped babbler
@@ -1083,8 +1068,8 @@ Black-crested antshrike
 Black-crested bulbul
 Black-crested coquette
 Black-crested finch
-Black-crested titmouse
 Black-crested tit-tyrant
+Black-crested titmouse
 Black-crested warbler
 Black-crowned antpitta
 Black-crowned antshrike
@@ -1207,18 +1192,6 @@ Black-hooded oriole
 Black-hooded sierra finch
 Black-hooded sunbeam
 Black-hooded thrush
-Blackish antbird
-Blackish chat-tyrant
-Blackish cinclodes
-Blackish cuckooshrike
-Blackish nightjar
-Blackish oystercatcher
-Blackish pewee
-Blackish rail
-Blackish tapaculo
-Blackish-blue seedeater
-Blackish-grey antshrike
-Blackish-headed spinetail
 Black-legged dacnis
 Black-legged kittiwake
 Black-legged parrot
@@ -1248,7 +1221,6 @@ Black-necked woodpecker
 Black-necklaced honeyeater
 Black-necklaced scimitar babbler
 Black-nest swiftlet
-Blackpoll warbler
 Black-polled yellowthroat
 Black-ringed white-eye
 Black-rumped buttonquail
@@ -1260,12 +1232,9 @@ Black-shouldered kite
 Black-shouldered nightjar
 Black-sided flowerpecker
 Black-sided robin
-Blacksmith lapwing
-Blacksmith thrush
 Black-spectacled brushfinch
 Black-spotted barbet
 Black-spotted bare-eye
-Blackstart
 Black-streaked puffbird
 Black-streaked scimitar babbler
 Black-striped sparrow
@@ -1287,7 +1256,6 @@ Black-tailed trogon
 Black-thighed falconet
 Black-thighed grosbeak
 Black-thighed puffleg
-Blackthroat
 Black-throated accentor
 Black-throated antbird
 Black-throated antshrike
@@ -1318,8 +1286,8 @@ Black-throated parrotbill
 Black-throated prinia
 Black-throated robin
 Black-throated saltator
-Black-throated shrikebill
 Black-throated shrike-tanager
+Black-throated shrikebill
 Black-throated sparrow
 Black-throated spinetail
 Black-throated sunbird
@@ -1354,6 +1322,26 @@ Black-winged saltator
 Black-winged snowfinch
 Black-winged starling
 Black-winged stilt
+Blackburnian warbler
+Blackcap babbler
+Blackcap illadopsis
+Blackish antbird
+Blackish chat-tyrant
+Blackish cinclodes
+Blackish cuckooshrike
+Blackish nightjar
+Blackish oystercatcher
+Blackish pewee
+Blackish rail
+Blackish tapaculo
+Blackish-blue seedeater
+Blackish-grey antshrike
+Blackish-headed spinetail
+Blackpoll warbler
+Blacksmith lapwing
+Blacksmith thrush
+Blackstart
+Blackthroat
 Blakiston's fish owl
 Blanford's lark
 Blanford's rosefinch
@@ -1365,6 +1353,7 @@ Blood-breasted flowerpecker
 Blood-colored woodpecker
 Blood-eared parakeet
 Blossom-headed parakeet
+Blue Mountain vireo
 Blue bird-of-paradise
 Blue bunting
 Blue cotinga
@@ -1384,7 +1373,6 @@ Blue lorikeet
 Blue malkoha
 Blue manakin
 Blue mockingbird
-Blue Mountain vireo
 Blue noddy
 Blue nuthatch
 Blue paradise flycatcher
@@ -1502,7 +1490,6 @@ Blue-streaked lory
 Blue-tailed bee-eater
 Blue-tailed emerald
 Blue-tailed hummingbird
-Bluethroat
 Blue-throated barbet
 Blue-throated bee-eater
 Blue-throated blue flycatcher
@@ -1534,6 +1521,7 @@ Blue-winged pitta
 Blue-winged racket-tail
 Blue-winged teal
 Blue-winged warbler
+Bluethroat
 Bluish flowerpiercer
 Bluish-fronted jacamar
 Bluish-slate antshrike
@@ -1554,8 +1542,8 @@ Boat-billed flycatcher
 Boat-billed heron
 Boat-billed tody-tyrant
 Boat-tailed grackle
-Bobolink
 Bob-tailed weaver
+Bobolink
 Bocage's akalat
 Bocage's bushshrike
 Bocage's sunbird
@@ -1584,9 +1572,7 @@ Bonaparte's nightjar
 Bonaparte's parakeet
 Bonelli's eagle
 Bonin greenfinch
-†Bonin grosbeak
 Bonin petrel
-†Bonin thrush
 Bonin white-eye
 Bonin wood pigeon
 Booted eagle
@@ -1662,9 +1648,9 @@ Bright-rumped yellow finch
 Brigida's woodcreeper
 Brimstone canary
 Bristle-crowned starling
-Bristled grassbird
 Bristle-nosed barbet
 Bristle-thighed curlew
+Bristled grassbird
 Broad-billed fairywren
 Broad-billed flycatcher
 Broad-billed hummingbird
@@ -1686,8 +1672,6 @@ Bronze ground dove
 Bronze mannikin
 Bronze parotia
 Bronze-brown cowbird
-Bronzed cowbird
-Bronzed drongo
 Bronze-green euphonia
 Bronze-olive pygmy tyrant
 Bronze-tailed comet
@@ -1700,6 +1684,8 @@ Bronze-winged duck
 Bronze-winged jacana
 Bronze-winged parrot
 Bronze-winged woodpecker
+Bronzed cowbird
+Bronzed drongo
 Bronzy hermit
 Bronzy inca
 Bronzy jacamar
@@ -1821,14 +1807,10 @@ Brown-headed honeyeater
 Brown-headed jewel-babbler
 Brown-headed nuthatch
 Brown-headed paradise kingfisher
-brown-headed parrot
 Brown-headed thrush
 Brown-hooded gull
 Brown-hooded kingfisher
 Brown-hooded parrot
-Brownish elaenia
-Brownish twistwing
-Brownish-headed antbird
 Brown-mandibled aracari
 Brown-necked parrot
 Brown-necked raven
@@ -1849,6 +1831,9 @@ Brown-winged parrotbill
 Brown-winged schiffornis
 Brown-winged starling
 Brown-winged whistling thrush
+Brownish elaenia
+Brownish twistwing
+Brownish-headed antbird
 Brubru
 Bruce's green pigeon
 Brush bronzewing
@@ -1894,7 +1879,6 @@ Buff-fronted foliage-gleaner
 Buff-fronted owl
 Buff-fronted quail-dove
 Buff-headed coucal
-Bufflehead
 Buff-necked ibis
 Buff-necked woodpecker
 Buff-rumped thornbill
@@ -1920,6 +1904,7 @@ Buff-throated woodcreeper
 Buff-vented bulbul
 Buff-winged cinclodes
 Buff-winged starfrontlet
+Bufflehead
 Buffy fish owl
 Buffy helmetcrest
 Buffy hummingbird
@@ -1930,9 +1915,9 @@ Buffy-crowned wood partridge
 Buffy-fronted seedeater
 Bugun liocichla
 Bukidnon woodcock
+Bull-headed shrike
 Buller's albatross
 Buller's shearwater
-Bull-headed shrike
 Bullock's oriole
 Bulwer's petrel
 Bulwer's pheasant
@@ -2019,10 +2004,10 @@ Campo troupial
 Canada goose
 Canada jay
 Canada warbler
-Canary flyrobin
 Canary Islands chiffchaff
 Canary Islands oystercatcher
 Canary Islands stonechat
+Canary flyrobin
 Canary white-eye
 Canebrake groundcreeper
 Canebrake wren
@@ -2032,6 +2017,12 @@ Canyon canastero
 Canyon towhee
 Canyon wren
 Cape Barren goose
+Cape May warbler
+Cape Verde buzzard
+Cape Verde shearwater
+Cape Verde storm petrel
+Cape Verde swift
+Cape Verde warbler
 Cape batis
 Cape bulbul
 Cape bunting
@@ -2044,7 +2035,6 @@ Cape gannet
 Cape grassbird
 Cape long-billed lark
 Cape longclaw
-Cape May warbler
 Cape parrot
 Cape penduline tit
 Cape petrel
@@ -2058,11 +2048,6 @@ Cape spurfowl
 Cape starling
 Cape sugarbird
 Cape teal
-Cape Verde buzzard
-Cape Verde shearwater
-Cape Verde storm petrel
-Cape Verde swift
-Cape Verde warbler
 Cape vulture
 Cape wagtail
 Cape weaver
@@ -2094,8 +2079,8 @@ Carolina chickadee
 Carolina parakeet
 Carolina wren
 Carolinian reed warbler
-Carpentarian grasswren
 Carp's tit
+Carpentarian grasswren
 Carrion crow
 Carrizal seedeater
 Carruthers's cisticola
@@ -2178,9 +2163,9 @@ Chattering cisticola
 Chattering gnatwren
 Chattering kingfisher
 Chattering lory
-Checkered woodpecker
 Checker-throated stipplethroat
 Checker-throated woodpecker
+Checkered woodpecker
 Cheer pheasant
 Cherrie's antwren
 Cherry-throated tanager
@@ -2397,11 +2382,10 @@ Chopi blackbird
 Chorister robin-chat
 Chotoy spinetail
 Chowchilla
+Christmas Island swiftlet
 Christmas boobook
 Christmas frigatebird
 Christmas imperial pigeon
-Christmas Island swiftlet
-†Christmas sandpiper
 Christmas shearwater
 Christmas white-eye
 Chubb's cisticola
@@ -2487,9 +2471,9 @@ Clapper rail
 Clapperton's spurfowl
 Claret-breasted fruit dove
 Clarión wren
-Clarke's weaver
 Clark's grebe
 Clark's nutcracker
+Clarke's weaver
 Claudia's leaf warbler
 Clay-colored sparrow
 Clay-colored thrush
@@ -2510,9 +2494,9 @@ Cobalt-winged parakeet
 Cobb's wren
 Cocha antshrike
 Cochabamba mountain finch
+Cock-tailed tyrant
 Cockatiel
 Cockerell's fantail
-Cock-tailed tyrant
 Cocoa thrush
 Cocoa woodcreeper
 Cocoi heron
@@ -2669,11 +2653,11 @@ Coopmans's tyrannulet
 Copper pheasant
 Copper seedeater
 Copper sunbird
-Copperback quail-thrush
 Copper-rumped hummingbird
-Coppersmith barbet
 Copper-tailed starling
 Copper-throated sunbird
+Copperback quail-thrush
+Coppersmith barbet
 Coppery emerald
 Coppery metaltail
 Coppery-bellied puffleg
@@ -2876,6 +2860,8 @@ Cuzco brushfinch
 Cyprus scops owl
 Cyprus warbler
 Cyprus wheatear
+D'Arnaud's barbet
+D'Orbigny's chat-tyrant
 Dagua thrush
 Dalat bush warbler
 Dalat shrike-babbler
@@ -2914,7 +2900,6 @@ Dark-throated seedeater
 Dark-winged canastero
 Dark-winged miner
 Dark-winged trumpeter
-D'Arnaud's barbet
 Dartford warbler
 Darwin's flycatcher
 Darwin's nothura
@@ -2966,15 +2951,14 @@ Dohrn's warbler
 Dolphin gull
 Donaldson Smith's nightjar
 Donaldson Smith's sparrow-weaver
-D'Orbigny's chat-tyrant
 Doria's goshawk
 Dorst's cisticola
 Dot-backed antbird
 Dot-eared coquette
 Dot-fronted woodpecker
-Dotted tanager
 Dot-winged antwren
 Dot-winged crake
+Dotted tanager
 Double-banded courser
 Double-banded greytail
 Double-banded plover
@@ -2984,12 +2968,12 @@ Double-barred finch
 Double-collared crescentchest
 Double-collared seedeater
 Double-crested cormorant
-Doubleday's hummingbird
 Double-eyed fig parrot
 Double-spurred spurfowl
 Double-striped thick-knee
 Double-toothed barbet
 Double-toothed kite
+Doubleday's hummingbird
 Downy woodpecker
 Drab hemispingus
 Drab myzomela
@@ -3013,8 +2997,8 @@ Dull-coloured grassquit
 Dull-mantled antbird
 Dune lark
 Dunlin
-Dunnock
 Dunn's lark
+Dunnock
 Dupont's lark
 Dusky antbird
 Dusky babbler
@@ -3096,8 +3080,10 @@ East Amazonian fire-eye
 East Andean antbird
 East Brazilian chachalaca
 East Brazilian pygmy owl
-East coast akalat
 East Coast boubou
+East coast akalat
+Eastern Bonelli's warbler
+Eastern Orphean warbler
 Eastern alpine mannikin
 Eastern barn owl
 Eastern bearded greenbul
@@ -3105,7 +3091,6 @@ Eastern black-eared wheatear
 Eastern black-headed batis
 Eastern bluebird
 Eastern bluebonnet
-Eastern Bonelli's warbler
 Eastern bristlebird
 Eastern bronze-naped pigeon
 Eastern buzzard
@@ -3128,7 +3113,6 @@ Eastern meadowlark
 Eastern miombo sunbird
 Eastern nicator
 Eastern olivaceous warbler
-Eastern Orphean warbler
 Eastern osprey
 Eastern parotia
 Eastern phoebe
@@ -3143,8 +3127,8 @@ Eastern subalpine warbler
 Eastern towhee
 Eastern violet-backed sunbird
 Eastern wattled cuckooshrike
-Eastern whipbird
 Eastern whip-poor-will
+Eastern whipbird
 Eastern wood pewee
 Eastern woodhaunter
 Eastern yellow robin
@@ -3195,8 +3179,8 @@ Elliot's pheasant
 Elliot's storm petrel
 Elliot's woodpecker
 Elusive antpitta
-Emei leaf warbler
 Emei Shan liocichla
+Emei leaf warbler
 Emerald starling
 Emerald tanager
 Emerald toucanet
@@ -3290,12 +3274,12 @@ Everett's white-eye
 Evergreen forest warbler
 Eversmann's redstart
 Exclamatory paradise whydah
-Eyebrowed jungle flycatcher
-Eyebrowed thrush
-Eyebrowed wren-babbler
 Eye-ringed flatbill
 Eye-ringed thistletail
 Eye-ringed tody-tyrant
+Eyebrowed jungle flycatcher
+Eyebrowed thrush
+Eyebrowed wren-babbler
 Eyrean grasswren
 Fairy flycatcher
 Fairy gerygone
@@ -3331,8 +3315,8 @@ Fawn-breasted waxbill
 Fawn-breasted whistler
 Fawn-breasted wren
 Fawn-coloured lark
-Fearful owl
 Fea's petrel
+Fearful owl
 Feline owlet-nightjar
 Fernandina's flicker
 Fernando Po batis
@@ -3394,8 +3378,8 @@ Fire-fronted bishop
 Fire-maned bowerbird
 Fire-tailed myzornis
 Fire-tailed sunbird
-Firethroat
 Fire-tufted barbet
+Firethroat
 Firewood-gatherer
 Fiscal flycatcher
 Fischer's greenbul
@@ -3413,7 +3397,6 @@ Flame-breasted flowerpecker
 Flame-breasted fruit dove
 Flame-breasted sunbird
 Flame-colored tanager
-Flamecrest
 Flame-crested manakin
 Flame-crested tanager
 Flame-crowned flowerpecker
@@ -3426,6 +3409,7 @@ Flame-throated bulbul
 Flame-throated sunangel
 Flame-throated warbler
 Flame-winged parakeet
+Flamecrest
 Flaming sunbird
 Flammulated bamboo tyrant
 Flammulated flycatcher
@@ -3441,12 +3425,12 @@ Flesh-footed shearwater
 Flightless cormorant
 Flock bronzewing
 Floreana mockingbird
+Flores Sea cuckoo-dove
 Flores crow
 Flores green pigeon
 Flores hawk-eagle
 Flores monarch
 Flores scops owl
-Flores Sea cuckoo-dove
 Florida scrub jay
 Fluffy-backed tit-babbler
 Flutist wren
@@ -3510,9 +3494,9 @@ Freckled nightjar
 Friedmann's lark
 Friendly bush warbler
 Friendly fantail
+Frill-necked monarch
 Frilled coquette
 Frilled monarch
-Frill-necked monarch
 Fringe-backed fire-eye
 Fruithunter
 Fuegian snipe
@@ -3631,11 +3615,12 @@ Glossy-backed becard
 Glossy-backed drongo
 Glossy-black thrush
 Glossy-mantled manucode
-Glowing puffleg
 Glow-throated hummingbird
+Glowing puffleg
 Godlewski's bunting
 Goeldi's antbird
 Gola malimbe
+Gold-ringed tanager
 Goldcrest
 Golden babbler
 Golden bowerbird
@@ -3700,7 +3685,6 @@ Golden-crowned tanager
 Golden-crowned warbler
 Golden-eared tanager
 Golden-eyed flowerpiercer
-Goldenface
 Golden-faced tyrannulet
 Golden-fronted bowerbird
 Golden-fronted fulvetta
@@ -3741,10 +3725,10 @@ Golden-winged sparrow
 Golden-winged sunbird
 Golden-winged tody-flycatcher
 Golden-winged warbler
+Goldenface
 Goldie's bird-of-paradise
 Goldie's lorikeet
 Goldman's warbler
-Gold-ringed tanager
 Goliath coucal
 Goliath heron
 Goliath imperial pigeon
@@ -3757,7 +3741,6 @@ Gosling's apalis
 Gosling's bunting
 Gough finch
 Gough moorhen
-Gouldian finch
 Gould's emerald
 Gould's frogmouth
 Gould's jewelfront
@@ -3765,12 +3748,12 @@ Gould's nightingale-thrush
 Gould's petrel
 Gould's shortwing
 Gould's toucanet
+Gouldian finch
+Grace's warbler
 Graceful honeyeater
 Graceful pitta
 Graceful prinia
-Grace's warbler
 Gran Canaria blue chaffinch
-†Grand Cayman thrush
 Grand Comoro brush warbler
 Grand Comoro bulbul
 Grand Comoro drongo
@@ -3788,19 +3771,22 @@ Grauer's broadbill
 Grauer's cuckooshrike
 Grauer's swamp warbler
 Grauer's warbler
-Grayish baywing
-Gray-barred wren
 Gray catbird
 Gray hawk
 Gray kingbird
 Gray thrasher
 Gray vireo
+Gray's grasshopper warbler
+Gray's lark
+Gray-barred wren
 Gray-crowned rosy finch
 Gray-headed kite
 Gray-lined hawk
-Gray's grasshopper warbler
-Gray's lark
 Gray-throated warbling finch
+Grayish baywing
+Great Inca finch
+Great Indian bustard
+Great Nicobar serpent eagle
 Great antpitta
 Great antshrike
 Great argus
@@ -3829,15 +3815,12 @@ Great grey shrike
 Great hanging parrot
 Great hornbill
 Great horned owl
-Great Inca finch
-Great Indian bustard
 Great iora
 Great jacamar
 Great kiskadee
 Great knot
 Great lizard cuckoo
 Great myna
-Great Nicobar serpent eagle
 Great parrotbill
 Great potoo
 Great reed warbler
@@ -3869,12 +3852,13 @@ Great-billed kingfisher
 Great-billed mannikin
 Great-billed parrot
 Great-billed seed finch
-Greater adjutant
-†Greater ʻamakihi
-Greater ani
+Great-tailed grackle
+Great-winged petrel
 Greater Antillean bullfinch
 Greater Antillean elaenia
 Greater Antillean grackle
+Greater adjutant
+Greater ani
 Greater bird-of-paradise
 Greater blue-eared starling
 Greater coucal
@@ -3888,7 +3872,6 @@ Greater ground robin
 Greater honeyguide
 Greater hoopoe-lark
 Greater kestrel
-†Greater koa finch
 Greater lophorina
 Greater melampitta
 Greater necklaced laughingthrush
@@ -3915,11 +3898,8 @@ Greater yellow finch
 Greater yellow-headed vulture
 Greater yellowlegs
 Greater yellownape
-Great-tailed grackle
-Great-winged petrel
 Green aracari
 Green avadavat
-Green-backed twinspot
 Green barbet
 Green bee-eater
 Green broadbill
@@ -3977,6 +3957,7 @@ Green-backed robin
 Green-backed sparrow
 Green-backed tit
 Green-backed trogon
+Green-backed twinspot
 Green-backed whistler
 Green-backed white-eye
 Green-backed woodpecker
@@ -4005,12 +3986,6 @@ Green-headed hillstar
 Green-headed oriole
 Green-headed sunbird
 Green-headed tanager
-Greenish elaenia
-Greenish puffleg
-Greenish schiffornis
-Greenish tyrannulet
-Greenish warbler
-Greenish yellow finch
 Green-legged partridge
 Green-naped tanager
 Green-rumped parrotlet
@@ -4031,6 +4006,12 @@ Green-throated sunbird
 Green-winged pytilia
 Green-winged saltator
 Green-winged teal
+Greenish elaenia
+Greenish puffleg
+Greenish schiffornis
+Greenish tyrannulet
+Greenish warbler
+Greenish yellow finch
 Grenada dove
 Grenada flycatcher
 Grey antbird
@@ -4236,12 +4217,6 @@ Grey-hooded sierra finch
 Grey-hooded sunbird
 Grey-hooded warbler
 Grey-hooded white-eye
-Greyish eagle-owl
-Greyish miner
-Greyish mourner
-Greyish piculet
-Greyish saltator
-Greylag goose
 Grey-legged tinamou
 Grey-mantled wren
 Grey-naped antpitta
@@ -4273,12 +4248,18 @@ Grey-throated sunbird
 Grey-throated tit-flycatcher
 Grey-throated warbler
 Grey-throated white-eye
+Grey-winged Inca finch
 Grey-winged blackbird
 Grey-winged cotinga
 Grey-winged francolin
-Grey-winged Inca finch
 Grey-winged robin-chat
 Grey-winged trumpeter
+Greyish eagle-owl
+Greyish miner
+Greyish mourner
+Greyish piculet
+Greyish saltator
+Greylag goose
 Griffon vulture
 Grimwood's longclaw
 Groove-billed ani
@@ -4292,7 +4273,6 @@ Growling riflebird
 Guadalcanal dwarf kingfisher
 Guadalcanal honeyeater
 Guadalcanal thrush
-†Guadalupe caracara
 Guadalupe junco
 Guadalupe murrelet
 Guadalupe storm petrel
@@ -4372,18 +4352,16 @@ Hartlaub's spurfowl
 Hartlaub's turaco
 Harwood's spurfowl
 Hauxwell's thrush
-Hawaiʻi ʻakepa
-Hawaiʻi ʻamakihi
-Hawaiʻi creeper
-Hawaiʻi ʻelepaio
-†Hawaii mamo
-†Hawaiʻi ʻōʻō
 Hawaiian coot
 Hawaiian crow
 Hawaiian duck
 Hawaiian hawk
 Hawaiian petrel
 Hawaiian rail
+Hawaiʻi creeper
+Hawaiʻi ʻakepa
+Hawaiʻi ʻamakihi
+Hawaiʻi ʻelepaio
 Hawfinch
 Hawkins's rail
 Hazel grouse
@@ -4521,7 +4499,6 @@ Hook-billed hermit
 Hook-billed kingfisher
 Hook-billed kite
 Hook-billed vanga
-†Hoopoe starling
 Hornbill friarbird
 Hornby's storm petrel
 Horned coot
@@ -4548,10 +4525,10 @@ House swift
 House wren
 Huallaga tanager
 Huayco tinamou
-Hudsonian godwit
-Hudsonian whimbrel
 Hudson's black tyrant
 Hudson's canastero
+Hudsonian godwit
+Hudsonian whimbrel
 Huet's fulvetta
 Huia
 Humaita antbird
@@ -4591,7 +4568,6 @@ Iceland gull
 Icterine greenbul
 Icterine warbler
 Ihering's antwren
-ʻIʻiwi
 Ijima's leaf warbler
 Imeri warbling antbird
 Imitator goshawk
@@ -4609,8 +4585,8 @@ Inca flycatcher
 Inca jay
 Inca tern
 Inca wren
-Indian blackbird
 Indian black-lored tit
+Indian blackbird
 Indian blue robin
 Indian bush lark
 Indian cormorant
@@ -4718,11 +4694,11 @@ Jamaican vireo
 Jamaican woodpecker
 Jambandu indigobird
 Jambu fruit dove
+James's flamingo
 Jameson's antpecker
 Jameson's firefinch
 Jameson's snipe
 Jameson's wattle-eye
-James's flamingo
 Jandaya parakeet
 Jankowski's bunting
 Japanese accentor
@@ -4814,12 +4790,10 @@ Kagu
 Kai cicadabird
 Kakamega greenbul
 Kakapo
-†Kākāwahie
 Kalahari scrub robin
 Kalij pheasant
 Kalinowski's chat-tyrant
 Kalkadoon grasswren
-†Kāmaʻo
 Kamchatka leaf warbler
 Kandt's waxbill
 Karamoja apalis
@@ -4836,11 +4810,9 @@ Karthala white-eye
 Kashmir flycatcher
 Kashmir nuthatch
 Katanga masked weaver
-†Kauaʻi ʻakialoa
+Kauaʻi nukupuʻu
 Kauaʻi ʻamakihi
 Kauaʻi ʻelepaio
-Kauaʻi nukupuʻu
-†Kauaʻi ʻōʻō
 Kawall's amazon
 Kea
 Keel-billed motmot
@@ -4873,7 +4845,6 @@ King rail
 King vulture
 Kinglet calyptura
 Kinglet manakin
-†Kioea
 Kipengere seedeater
 Kirk's white-eye
 Kirtland's warbler
@@ -4883,9 +4854,9 @@ Klaas's cuckoo
 Klages's antbird
 Klages's antwren
 Kloss's leaf warbler
-Knobbed hornbill
 Knob-billed duck
 Knob-billed fruit dove
+Knobbed hornbill
 Knysna turaco
 Knysna warbler
 Knysna woodpecker
@@ -4897,13 +4868,11 @@ Koklass pheasant
 Kolombangara leaf warbler
 Kolombangara monarch
 Kolombangara white-eye
-†Kona grosbeak
 Kordofan lark
 Kordofan sparrow
 Kori bustard
 Kosrae crake
 Kosrae fruit dove
-†Kosrae starling
 Kosrae white-eye
 Kozlov's accentor
 Kretschmer's longbill
@@ -4914,7 +4883,6 @@ Kurdish wheatear
 Kurrichane thrush
 La Sagra's flycatcher
 La Selle thrush
-†Labrador duck
 Laced woodpecker
 Lacrimose mountain tanager
 Ladder-backed woodpecker
@@ -4925,14 +4893,14 @@ Lafresnaye's vanga
 Lagden's bushshrike
 Laggar falcon
 Lake duck
-†Lānaʻi hookbill
+Lance-tailed manakin
 Lanceolated monklet
 Lanceolated warbler
-Lance-tailed manakin
 Landana firefinch
 Lanner falcon
 Lapland longspur
 Lappet-faced vulture
+Large Lifou white-eye
 Large blue flycatcher
 Large cuckooshrike
 Large elaenia
@@ -4942,7 +4910,6 @@ Large green pigeon
 Large grey babbler
 Large ground finch
 Large hawk-cuckoo
-Large Lifou white-eye
 Large niltava
 Large scimitar babbler
 Large scrubwren
@@ -4991,12 +4958,13 @@ Layard's woodcreeper
 Laysan albatross
 Laysan duck
 Laysan finch
-†Laysan honeycreeper
 Laysan rail
 Lazuli bunting
 Lazuli kingfisher
 Lazuline sabrewing
 Lazy cisticola
+LeConte's sparrow
+LeConte's thrasher
 Leach's storm petrel
 Leaden antwren
 Leaden flycatcher
@@ -5014,8 +4982,6 @@ Least sandpiper
 Least seedsnipe
 Least storm petrel
 Least tern
-LeConte's sparrow
-LeConte's thrasher
 Legge's flowerpecker
 Legge's hawk-eagle
 Lemon dove
@@ -5030,14 +4996,13 @@ Lemon-rumped warbler
 Lemon-spectacled tanager
 Lemon-throated barbet
 Lemon-throated leaf warbler
-Lesser adjutant
-†Lesser ʻakialoa
 Lesser Antillean bullfinch
 Lesser Antillean flycatcher
 Lesser Antillean pewee
 Lesser Antillean saltator
 Lesser Antillean swift
 Lesser Antillean tanager
+Lesser adjutant
 Lesser bird-of-paradise
 Lesser black-backed gull
 Lesser blue-eared starling
@@ -5064,7 +5029,6 @@ Lesser hornero
 Lesser jacana
 Lesser kestrel
 Lesser kiskadee
-†Lesser koa finch
 Lesser masked weaver
 Lesser melampitta
 Lesser moorhen
@@ -5102,8 +5066,8 @@ Lesser yellownape
 Lesson's motmot
 Lesson's seedeater
 Letitia's thorntail
-Lettered aracari
 Letter-winged kite
+Lettered aracari
 Levaillant's cisticola
 Levaillant's cuckoo
 Levaillant's woodpecker
@@ -5127,16 +5091,18 @@ Limestone wren-babbler
 Limpkin
 Lina's sunbird
 Lincoln's sparrow
+Line-cheeked spinetail
+Line-fronted canastero
 Lineated barbet
 Lineated foliage-gleaner
 Lineated woodpecker
-Line-cheeked spinetail
 Lined antshrike
 Lined forest falcon
 Lined quail-dove
 Lined seedeater
-Line-fronted canastero
 Lita woodpecker
+Little Inca finch
+Little Sumba hawk-owl
 Little auk
 Little bee-eater
 Little bittern
@@ -5171,7 +5137,6 @@ Little grey woodpecker
 Little ground tyrant
 Little gull
 Little hermit
-Little Inca finch
 Little kingfisher
 Little lorikeet
 Little minivet
@@ -5191,7 +5156,6 @@ Little sparrowhawk
 Little spiderhunter
 Little spotted kiwi
 Little stint
-Little Sumba hawk-owl
 Little swift
 Little tern
 Little thornbird
@@ -5290,11 +5254,11 @@ Long-toed lapwing
 Long-toed stint
 Long-trained nightjar
 Long-tufted screech owl
-Longuemare's sunangel
 Long-wattled umbrellabird
 Long-whiskered owlet
 Long-winged antwren
 Long-winged harrier
+Longuemare's sunangel
 Lord Derby's parakeet
 Lord Howe gerygone
 Lord Howe parakeet
@@ -5338,17 +5302,17 @@ Lyall's wren
 Lynes's cisticola
 Lyre-tailed honeyguide
 Lyre-tailed nightjar
-Macaroni penguin
-Maccoa duck
 MacGillivray's warbler
 MacGregor's bowerbird
 MacGregor's honeyeater
+MacQueen's bustard
+Macaroni penguin
+Maccoa duck
 Mackinlay's cuckoo-dove
 Mackinnon's shrike
 Macleay's honeyeater
 Macquarie parakeet
 Macquarie shag
-MacQueen's bustard
 Madagascan blue pigeon
 Madagascan buttonquail
 Madagascan cisticola
@@ -5514,8 +5478,8 @@ Manus masked owl
 Manus monarch
 Manx shearwater
 Many-banded aracari
-Many-colored bushshrike
 Many-colored Chaco finch
+Many-colored bushshrike
 Many-colored fruit dove
 Many-colored rush tyrant
 Many-spotted hummingbird
@@ -5529,6 +5493,7 @@ Marañón crescentchest
 Maranon pigeon
 Marañón spinetail
 Marañón thrush
+Marble-faced bristle tyrant
 Marbled duck
 Marbled frogmouth
 Marbled godwit
@@ -5536,14 +5501,12 @@ Marbled honeyeater
 Marbled murrelet
 Marbled wood quail
 Marbled wren-babbler
-Marble-faced bristle tyrant
 Marcapata spinetail
 Margaret's batis
 Mariana crow
 Mariana fruit dove
 Mariana kingfisher
 Mariana swiftlet
-†Marianne white-eye
 Marico flycatcher
 Marico sunbird
 Marigold lorikeet
@@ -5588,7 +5551,6 @@ Mascarene coot
 Mascarene grey parakeet
 Mascarene martin
 Mascarene paradise flycatcher
-†Mascarene parrot
 Mascarene petrel
 Mascarene swiftlet
 Mascarene teal
@@ -5620,12 +5582,10 @@ Matinan blue flycatcher
 Mato Grosso antbird
 Mato Grosso swift
 Matsudaira's storm petrel
-Maui ʻakepa
-Maui ʻalauahio
 Maui nukupuʻu
 Maui parrotbill
-†Maui Nui ʻakialoa
-†Mauke starling
+Maui ʻakepa
+Maui ʻalauahio
 Maupiti monarch
 Mauritius blue pigeon
 Mauritius bulbul
@@ -5704,11 +5664,11 @@ Micronesian imperial pigeon
 Micronesian megapode
 Micronesian myzomela
 Micronesian starling
+Mid-mountain berrypecker
 Middendorff's grasshopper warbler
 Middle American screech owl
 Middle spotted woodpecker
 Midget flowerpecker
-Mid-mountain berrypecker
 Mikado pheasant
 Military macaw
 Milky stork
@@ -5788,7 +5748,6 @@ Monteiro's storm petrel
 Montezuma oropendola
 Montezuma quail
 Montserrat oriole
-†Moorea reed warbler
 Moorea sandpiper
 Moorland chat
 Moorland francolin
@@ -6008,7 +5967,6 @@ New Zealand fernbird
 New Zealand grebe
 New Zealand kaka
 New Zealand king shag
-†New Zealand merganser
 New Zealand quail
 New Zealand rock wren
 New Zealand scaup
@@ -6054,7 +6012,6 @@ Noisy scrubbird
 Nonggang babbler
 Nordmann's greenshank
 Norfolk gerygone
-†Norfolk ground dove
 Norfolk kaka
 Norfolk parakeet
 Norfolk robin
@@ -6062,14 +6019,13 @@ Noronha elaenia
 Noronha vireo
 North Island brown kiwi
 North Island kōkako
-†North Island piopio
 North Island robin
 North Island saddleback
 North Island snipe
-†North Island takahē
 North Melanesian cuckooshrike
 North Moluccan pitta
 North Solomons dwarf kingfisher
+Northern Marquesan reed warbler
 Northern bald ibis
 Northern barred woodcreeper
 Northern beardless tyrannulet
@@ -6078,8 +6034,8 @@ Northern black flycatcher
 Northern black korhaan
 Northern bobwhite
 Northern boobook
-Northern brownbul
 Northern brown-throated weaver
+Northern brownbul
 Northern cardinal
 Northern carmine bee-eater
 Northern cassowary
@@ -6102,7 +6058,6 @@ Northern harrier
 Northern hawk-owl
 Northern jacana
 Northern lapwing
-Northern Marquesan reed warbler
 Northern masked weaver
 Northern mealy amazon
 Northern mockingbird
@@ -6150,13 +6105,6 @@ Nuthatch vanga
 Nuttall's woodpecker
 Nutting's flycatcher
 Nyanza swift
-†Oʻahu ʻakepa
-†Oʻahu ʻakialoa
-Oʻahu ʻalauahio
-Oʻahu ʻamakihi
-Oʻahu ʻelepaio
-†Oʻahu nukupuʻu
-†Oʻahu ʻōʻō
 Oak titmouse
 Oasis hummingbird
 Oaxaca hummingbird
@@ -6280,20 +6228,19 @@ Olrog's cinclodes
 Olrog's gull
 Olson's petrel
 Omani owl
-ʻŌmaʻo
 One-colored becard
 Opal-crowned manakin
 Opal-crowned tanager
 Opal-rumped tanager
 Opalton grasswren
+Orange River francolin
+Orange River white-eye
 Orange bullfinch
 Orange chat
 Orange fruit dove
 Orange ground thrush
 Orange minivet
 Orange oriole
-Orange River francolin
-Orange River white-eye
 Orange weaver
 Orange-backed troupial
 Orange-backed woodpecker
@@ -6345,7 +6292,6 @@ Orange-fronted yellow finch
 Orange-headed tanager
 Orange-headed thrush
 Orange-necked partridge
-Orangequit
 Orange-sided thrush
 Orange-spotted bulbul
 Orange-throated sunangel
@@ -6354,6 +6300,7 @@ Orange-tufted spiderhunter
 Orange-tufted sunbird
 Orange-winged amazon
 Orange-winged pytilia
+Orangequit
 Orchard oriole
 Oriental bay owl
 Oriental cuckoo
@@ -6389,7 +6336,6 @@ Ornate stipplethroat
 Ornate tinamou
 Ortolan bunting
 Otago shag
-†ʻŌʻū
 Oustalet's sunbird
 Oustalet's tyrannulet
 Outcrop sabrewing
@@ -6397,6 +6343,9 @@ Ouvea parakeet
 Ovambo sparrowhawk
 Ovenbird
 Owston's tit
+Oʻahu ʻalauahio
+Oʻahu ʻamakihi
+Oʻahu ʻelepaio
 Pacific antwren
 Pacific baza
 Pacific black duck
@@ -6523,7 +6472,6 @@ Pale-naped brushfinch
 Pale-olive greenbul
 Pale-rumped swift
 Pale-shouldered cicadabird
-Palestine sunbird
 Pale-tailed barbthroat
 Pale-tailed canastero
 Pale-throated wren-babbler
@@ -6534,6 +6482,7 @@ Pale-vented thrush
 Pale-winged starling
 Pale-winged trumpeter
 Pale-yellow robin
+Palestine sunbird
 Palila
 Pallas's fish eagle
 Pallas's grasshopper warbler
@@ -6554,8 +6503,8 @@ Palm crow
 Palm lorikeet
 Palm tanager
 Palm warbler
-Palmchat
 Palm-nut vulture
+Palmchat
 Pampa finch
 Pampas meadowlark
 Pampas pipit
@@ -6634,8 +6583,8 @@ Peacock coquette
 Pearl kite
 Pearl-bellied white-eye
 Pearl-breasted swallow
-Pearled treerunner
 Pearl-spotted owlet
+Pearled treerunner
 Pearly antshrike
 Pearly parakeet
 Pearly-bellied seedeater
@@ -6649,10 +6598,10 @@ Pectoral sandpiper
 Pectoral sparrow
 Pectoral-patch cisticola
 Peg-billed finch
+Pel's fishing owl
 Pelagic cormorant
 Peleng fantail
 Peleng leaf warbler
-Pel's fishing owl
 Pelzeln's tody-tyrant
 Pemba green pigeon
 Pemba scops owl
@@ -6776,6 +6725,13 @@ Pileated flycatcher
 Pileated parrot
 Pileated woodpecker
 Pilotbird
+Pin-striped tit-babbler
+Pin-tailed green pigeon
+Pin-tailed manakin
+Pin-tailed parrotfinch
+Pin-tailed sandgrouse
+Pin-tailed snipe
+Pin-tailed whydah
 Pincoya storm petrel
 Pine bunting
 Pine flycatcher
@@ -6809,13 +6765,6 @@ Pink-throated twinspot
 Pinnated bittern
 Pinon's imperial pigeon
 Pinsker's hawk-eagle
-Pin-striped tit-babbler
-Pin-tailed green pigeon
-Pin-tailed manakin
-Pin-tailed parrotfinch
-Pin-tailed sandgrouse
-Pin-tailed snipe
-Pin-tailed whydah
 Pinto's spinetail
 Pinyon jay
 Piping bellbird
@@ -6871,15 +6820,15 @@ Plain-crowned spinetail
 Plain-flanked rail
 Plain-mantled tit-spinetail
 Plain-pouched hornbill
-Plains-wanderer
 Plain-tailed nighthawk
 Plain-tailed warbling finch
 Plain-tailed wren
 Plain-throated antwren
-Plaintive cuckoo
 Plain-winged antshrike
 Plain-winged antwren
 Plain-winged woodcreeper
+Plains-wanderer
+Plaintive cuckoo
 Planalto foliage-gleaner
 Planalto hermit
 Planalto slaty antshrike
@@ -6888,6 +6837,10 @@ Planalto tyrannulet
 Planalto woodcreeper
 Plate-billed mountain toucan
 Pleske's ground jay
+Plum-faced lorikeet
+Plum-headed finch
+Plum-headed parakeet
+Plum-throated cotinga
 Plumbeous antbird
 Plumbeous antvireo
 Plumbeous euphonia
@@ -6905,15 +6858,11 @@ Plumbeous warbler
 Plumbeous water redstart
 Plumbeous-backed thrush
 Plumbeous-crowned tyrannulet
+Plume-toed swiftlet
 Plumed guineafowl
 Plumed whistling duck
-Plume-toed swiftlet
-Plum-faced lorikeet
-Plum-headed finch
-Plum-headed parakeet
-Plum-throated cotinga
-Plushcap
 Plush-crested jay
+Plushcap
 Pohnpei cicadabird
 Pohnpei fantail
 Pohnpei flycatcher
@@ -6930,7 +6879,6 @@ Polynesian triller
 Polynesian wattled honeyeater
 Pomarine jaeger
 Pompadour cotinga
-†Poʻouli
 Powerful owl
 Powerful woodpecker
 Prairie falcon
@@ -7070,9 +7018,9 @@ Pygmy sunbird
 Pygmy swiftlet
 Pygmy white-eye
 Pyrrhuloxia
+Quail-plover
 Quailfinch
 Quailfinch indigobird
-Quail-plover
 Quebracho crested tinamou
 Rachel's malimbe
 Racket-tailed coquette
@@ -7104,9 +7052,10 @@ Rarotonga starling
 Raso lark
 Ratchet-tailed treepie
 Rattling cisticola
-Razorbill
 Razor-billed curassow
+Razorbill
 Recurve-billed bushbird
+Red Sea cliff swallow
 Red avadavat
 Red bird-of-paradise
 Red collared dove
@@ -7125,7 +7074,6 @@ Red phalarope
 Red pileated finch
 Red rail
 Red satinbird
-Red Sea cliff swallow
 Red shoveler
 Red siskin
 Red spurfowl
@@ -7247,10 +7195,6 @@ Red-crowned crane
 Red-crowned malimbe
 Red-crowned parakeet
 Red-crowned woodpecker
-Reddish egret
-Reddish hermit
-Reddish scops owl
-Reddish-winged bare-eye
 Red-eared firetail
 Red-eared fruit dove
 Red-eared parrotfinch
@@ -7288,7 +7232,6 @@ Red-fronted rosefinch
 Red-fronted serin
 Red-fronted tinkerbird
 Red-gartered coot
-Redhead
 Red-headed barbet
 Red-headed bluebill
 Red-headed bullfinch
@@ -7376,7 +7319,6 @@ Red-tailed tropicbird
 Red-tailed vanga
 Red-tailed wheatear
 Red-thighed sparrowhawk
-Redthroat
 Red-throated alethe
 Red-throated ant tanager
 Red-throated barbet
@@ -7401,7 +7343,6 @@ Red-vented malimbe
 Red-vested myzomela
 Red-wattled lapwing
 Red-whiskered bulbul
-Redwing
 Red-winged blackbird
 Red-winged fairywren
 Red-winged francolin
@@ -7414,6 +7355,13 @@ Red-winged pytilia
 Red-winged starling
 Red-winged tinamou
 Red-winged wood rail
+Reddish egret
+Reddish hermit
+Reddish scops owl
+Reddish-winged bare-eye
+Redhead
+Redthroat
+Redwing
 Reed cormorant
 Reed parrotbill
 Reeves's pheasant
@@ -7444,12 +7392,7 @@ Réunion cuckooshrike
 Réunion grey white-eye
 Réunion harrier
 Réunion ibis
-†Réunion kestrel
-†Réunion night heron
 Réunion olive white-eye
-†Réunion owl
-†Réunion rail
-†Réunion sheldgoose
 Réunion stonechat
 Rhinoceros auklet
 Rhinoceros hornbill
@@ -7462,23 +7405,23 @@ Rifleman
 Rimatara reed warbler
 Ring ouzel
 Ring-billed gull
+Ring-necked dove
+Ring-necked duck
+Ring-necked francolin
+Ring-tailed pigeon
 Ringed antpipit
 Ringed kingfisher
 Ringed teal
 Ringed warbling finch
 Ringed woodpecker
-Ring-necked dove
-Ring-necked duck
-Ring-necked francolin
-Ring-tailed pigeon
 Rinjani scops owl
 Rio Branco antbird
-Rio de Janeiro antbird
-Rio de Janeiro antwren
 Rio Madeira stipplethroat
 Rio Negro gnatcatcher
 Río Orinoco spinetail
 Rio Suno antwren
+Rio de Janeiro antbird
+Rio de Janeiro antwren
 Riparian antbird
 River lapwing
 River prinia
@@ -7492,7 +7435,6 @@ Rivoli's hummingbird
 Roadside hawk
 Roberts's warbler
 Robin accentor
-†Robust white-eye
 Robust woodpecker
 Rock bunting
 Rock bush quail
@@ -7510,8 +7452,8 @@ Rock shag
 Rock sparrow
 Rock tapaculo
 Rock wren
-Rockefeller's sunbird
 Rock-loving cisticola
+Rockefeller's sunbird
 Rockrunner
 Rockwarbler
 Rodrigues fody
@@ -7521,7 +7463,6 @@ Rodrigues parrot
 Rodrigues pigeon
 Rodrigues rail
 Rodrigues solitaire
-†Rodrigues starling
 Rodrigues warbler
 Roll's partridge
 Romblon hawk-owl
@@ -7536,8 +7477,6 @@ Roraiman flycatcher
 Roraiman nightjar
 Roraiman warbler
 Rose robin
-Roseate spoonbill
-Roseate tern
 Rose-bellied bunting
 Rose-breasted chat
 Rose-breasted grosbeak
@@ -7549,6 +7488,8 @@ Rose-fronted parakeet
 Rose-ringed parakeet
 Rose-throated becard
 Rose-throated tanager
+Roseate spoonbill
+Roseate tern
 Ross's goose
 Ross's gull
 Ross's turaco
@@ -7661,10 +7602,10 @@ Rufous whistler
 Rufous woodpecker
 Rufous wren
 Rufous-and-white wren
+Rufous-backed Inca finch
 Rufous-backed antvireo
 Rufous-backed fantail
 Rufous-backed honeyeater
-Rufous-backed Inca finch
 Rufous-backed sibia
 Rufous-backed stipplethroat
 Rufous-backed thrush
@@ -7938,8 +7879,8 @@ Rwenzori hill babbler
 Rwenzori turaco
 Ryukyu minivet
 Ryukyu robin
-Ryūkyū scops owl
 Ryukyu wood pigeon
+Ryūkyū scops owl
 Sabine's gull
 Sabine's puffback
 Sabine's spinetail
@@ -7959,12 +7900,7 @@ Sage thrasher
 Sagebrush sparrow
 Sahel bush sparrow
 Sahel paradise whydah
-†Saint Helena crake
-†Saint Helena cuckoo
-†Saint Helena hoopoe
-†Saint Helena petrel
 Saint Helena plover
-†Saint Helena rail
 Saint Lucia amazon
 Saint Lucia black finch
 Saint Lucia oriole
@@ -8000,7 +7936,6 @@ Samoan white-eye
 Samoan woodhen
 San Andres vireo
 San Blas jay
-†San Cristóbal flycatcher
 San Cristóbal mockingbird
 Sand lark
 Sand martin
@@ -8077,13 +8012,16 @@ Saunders's tern
 Savanna hawk
 Savanna nightjar
 Savannah sparrow
-Savile's bustard
 Savi's warbler
+Savile's bustard
 Saw-billed hermit
 Saxaul sparrow
-Sayaca tanager
 Say's phoebe
+Sayaca tanager
 Scale-crested pygmy tyrant
+Scale-feathered malkoha
+Scale-throated earthcreeper
+Scale-throated hermit
 Scaled antbird
 Scaled antpitta
 Scaled chachalaca
@@ -8097,9 +8035,6 @@ Scaled pigeon
 Scaled quail
 Scaled spinetail
 Scaled woodcreeper
-Scale-feathered malkoha
-Scale-throated earthcreeper
-Scale-throated hermit
 Scallop-breasted antpitta
 Scalloped antbird
 Scalloped woodcreeper
@@ -8189,8 +8124,8 @@ Sclater's tyrannulet
 Sclater's whistler
 Sclater's wren
 Scopoli's shearwater
-Scottish crossbill
 Scott's oriole
+Scottish crossbill
 Screaming cowbird
 Screaming piha
 Scribble-tailed canastero
@@ -8258,16 +8193,8 @@ Seychelles white-eye
 Shade bush warbler
 Shaft-tailed whydah
 Sharp-beaked ground finch
-Sharpbill
 Sharp-billed canastero
 Sharp-billed treehunter
-Sharpe's akalat
-Sharpe's apalis
-Sharpe's drongo
-Sharpe's greenbul
-Sharpe's longclaw
-Sharpe's rosefinch
-Sharpe's starling
 Sharp-shinned hawk
 Sharp-tailed grass tyrant
 Sharp-tailed grouse
@@ -8275,6 +8202,14 @@ Sharp-tailed ibis
 Sharp-tailed sandpiper
 Sharp-tailed starling
 Sharp-tailed streamcreeper
+Sharpbill
+Sharpe's akalat
+Sharpe's apalis
+Sharpe's drongo
+Sharpe's greenbul
+Sharpe's longclaw
+Sharpe's rosefinch
+Sharpe's starling
 Shear-tailed grey tyrant
 Shelley's crimsonwing
 Shelley's eagle-owl
@@ -8362,11 +8297,11 @@ Sichuan partridge
 Sichuan thrush
 Sichuan tit
 Sichuan treecreeper
+Sick's swift
 Sickle-billed vanga
 Sickle-winged chat
 Sickle-winged guan
 Sickle-winged nightjar
-Sick's swift
 Sierra Leone prinia
 Sierra Madre ground warbler
 Sierra Madre sparrow
@@ -8384,19 +8319,19 @@ Silver-backed butcherbird
 Silver-backed needletail
 Silver-backed tanager
 Silver-beaked tanager
-Silverbird
 Silver-breasted broadbill
 Silver-capped fruit dove
 Silver-crowned friarbird
 Silver-eared honeyeater
 Silver-eared laughingthrush
 Silver-eared mesia
-Silvered antbird
-Silvereye
 Silver-rumped spinetail
 Silver-throated bushtit
 Silver-throated tanager
 Silver-tipped imperial pigeon
+Silverbird
+Silvered antbird
+Silvereye
 Silvery grebe
 Silvery pigeon
 Silvery-cheeked antshrike
@@ -8485,7 +8420,6 @@ Slender-billed crow
 Slender-billed curlew
 Slender-billed finch
 Slender-billed flufftail
-†Slender-billed grackle
 Slender-billed greenbul
 Slender-billed gull
 Slender-billed inezia
@@ -8504,8 +8438,8 @@ Slender-billed xenops
 Slender-footed tyrannulet
 Slender-tailed nightjar
 Slender-tailed woodstar
-Small ground finch
 Small Lifou white-eye
+Small ground finch
 Small minivet
 Small niltava
 Small pratincole
@@ -8528,15 +8462,15 @@ Snares snipe
 Snethlage's antpitta
 Snethlage's tody-tyrant
 Snoring rail
-Snow bunting
-Snow goose
 Snow Mountain quail
 Snow Mountains robin
+Snow bunting
+Snow goose
 Snow partridge
 Snow petrel
 Snow pigeon
-Snowcap
 Snow-capped manakin
+Snowcap
 Snowy cotinga
 Snowy egret
 Snowy owl
@@ -8659,7 +8593,6 @@ South Georgia pipit
 South Georgia shag
 South Island kōkako
 South Island oystercatcher
-†South Island piopio
 South Island robin
 South Island saddleback
 South Island snipe
@@ -8668,6 +8601,7 @@ South Melanesian cuckooshrike
 South Moluccan pitta
 South Pare white-eye
 South polar skua
+Southern Marquesan reed warbler
 Southern antpipit
 Southern bald ibis
 Southern banded snake eagle
@@ -8696,7 +8630,6 @@ Southern ground hornbill
 Southern hill myna
 Southern hyliota
 Southern lapwing
-Southern Marquesan reed warbler
 Southern martin
 Southern masked weaver
 Southern mealy amazon
@@ -8717,9 +8650,9 @@ Southern silvery kingfisher
 Southern tchagra
 Southern variable pitohui
 Southern white-crowned shrike
-Southern whiteface
 Southern white-faced owl
 Southern white-fringed antwren
+Southern whiteface
 Southern yellow white-eye
 Southern yellow-billed hornbill
 Southern yellowthroat
@@ -8738,6 +8671,9 @@ Speckle-breasted antpitta
 Speckle-breasted woodpecker
 Speckle-breasted wren
 Speckle-chested piculet
+Speckle-faced parrot
+Speckle-fronted weaver
+Speckle-throated woodpecker
 Speckled antshrike
 Speckled boobook
 Speckled chachalaca
@@ -8753,13 +8689,9 @@ Speckled tanager
 Speckled tinkerbird
 Speckled warbler
 Speckled wood pigeon
-Speckle-faced parrot
-Speckle-fronted weaver
-Speckle-throated woodpecker
 Spectacled barwing
 Spectacled bristle tyrant
 Spectacled bulbul
-†Spectacled cormorant
 Spectacled eider
 Spectacled finch
 Spectacled flowerpecker
@@ -8825,13 +8757,29 @@ Spot-crowned woodcreeper
 Spot-flanked barbet
 Spot-flanked gallinule
 Spot-fronted swift
-Spotless crake
-Spotless starling
 Spot-necked babbler
 Spot-necked bulbul
 Spot-tailed antwren
 Spot-tailed nightjar
 Spot-tailed sparrowhawk
+Spot-throat
+Spot-throated babbler
+Spot-throated flameback
+Spot-throated hummingbird
+Spot-throated woodcreeper
+Spot-winged antbird
+Spot-winged antshrike
+Spot-winged falconet
+Spot-winged grosbeak
+Spot-winged monarch
+Spot-winged parrotlet
+Spot-winged pigeon
+Spot-winged rosefinch
+Spot-winged starling
+Spot-winged thrush
+Spot-winged wood quail
+Spotless crake
+Spotless starling
 Spotted antbird
 Spotted antpitta
 Spotted bamboowren
@@ -8886,22 +8834,6 @@ Spotted wood owl
 Spotted wood quail
 Spotted woodcreeper
 Spotted wren
-Spot-throat
-Spot-throated babbler
-Spot-throated flameback
-Spot-throated hummingbird
-Spot-throated woodcreeper
-Spot-winged antbird
-Spot-winged antshrike
-Spot-winged falconet
-Spot-winged grosbeak
-Spot-winged monarch
-Spot-winged parrotlet
-Spot-winged pigeon
-Spot-winged rosefinch
-Spot-winged starling
-Spot-winged thrush
-Spot-winged wood quail
 Sprague's pipit
 Spruce grouse
 Spur-winged goose
@@ -8933,15 +8865,15 @@ Sri Lanka white-eye
 Sri Lanka wood pigeon
 Sri Lanka woodshrike
 Sri Lankan junglefowl
-Standardwing bird-of-paradise
 Standard-winged nightjar
+Standardwing bird-of-paradise
 Star finch
 Star-chested treerunner
+Star-spotted nightjar
+Star-throated antwren
 Stark's lark
 Starred wood quail
 Starry owlet-nightjar
-Star-spotted nightjar
-Star-throated antwren
 Steel-blue flycatcher
 Steel-blue whydah
 Steely-vented hummingbird
@@ -8953,8 +8885,8 @@ Stejneger's stonechat
 Steller's eider
 Steller's jay
 Steller's sea eagle
-Stephanie's astrapia
 Stephan's emerald dove
+Stephanie's astrapia
 Stephen's lorikeet
 Steppe eagle
 Stierling's woodpecker
@@ -8998,6 +8930,19 @@ Streak-capped treehunter
 Streak-chested antpitta
 Streak-crowned antvireo
 Streak-eared bulbul
+Streak-fronted thornbird
+Streak-headed antbird
+Streak-headed honeyeater
+Streak-headed mannikin
+Streak-headed white-eye
+Streak-headed woodcreeper
+Streak-necked flycatcher
+Streak-throated barwing
+Streak-throated bush tyrant
+Streak-throated canastero
+Streak-throated hermit
+Streak-throated swallow
+Streak-throated woodpecker
 Streaked barwing
 Streaked berrypecker
 Streaked bowerbird
@@ -9014,19 +8959,6 @@ Streaked tuftedcheek
 Streaked weaver
 Streaked wren-babbler
 Streaked xenops
-Streak-fronted thornbird
-Streak-headed antbird
-Streak-headed honeyeater
-Streak-headed mannikin
-Streak-headed white-eye
-Streak-headed woodcreeper
-Streak-necked flycatcher
-Streak-throated barwing
-Streak-throated bush tyrant
-Streak-throated canastero
-Streak-throated hermit
-Streak-throated swallow
-Streak-throated woodpecker
 Streaky seedeater
 Streaky-breasted flufftail
 Streaky-breasted spiderhunter
@@ -9073,6 +9005,19 @@ Stripe-cheeked woodpecker
 Stripe-chested antwren
 Stripe-crowned sparrow
 Stripe-crowned spinetail
+Stripe-faced greenbul
+Stripe-faced wood quail
+Stripe-headed antpitta
+Stripe-headed rhabdornis
+Stripe-headed sparrow
+Stripe-necked tody-tyrant
+Stripe-tailed hummingbird
+Stripe-tailed yellow finch
+Stripe-throated bulbul
+Stripe-throated hermit
+Stripe-throated jery
+Stripe-throated wren
+Stripe-throated yuhina
 Striped crake
 Striped cuckoo
 Striped flowerpecker
@@ -9087,24 +9032,11 @@ Striped treehunter
 Striped woodcreeper
 Striped woodpecker
 Striped wren-babbler
-Stripe-faced greenbul
-Stripe-faced wood quail
-Stripe-headed antpitta
-Stripe-headed rhabdornis
-Stripe-headed sparrow
-Stripe-necked tody-tyrant
-Stripe-tailed hummingbird
-Stripe-tailed yellow finch
-Stripe-throated bulbul
-Stripe-throated hermit
-Stripe-throated jery
-Stripe-throated wren
-Stripe-throated yuhina
 Strong-billed honeyeater
 Strong-billed woodcreeper
-Stubble quail
 Stub-tailed antbird
 Stub-tailed spadebill
+Stubble quail
 Stuhlmann's starling
 Styan's bulbul
 Styan's grasshopper warbler
@@ -9331,10 +9263,10 @@ Tamarugo conebill
 Tamaulipas crow
 Tamaulipas pygmy owl
 Tambourine dove
+Tan-capped catbird
 Tana River cisticola
 Tanager finch
 Tanahjampea blue flycatcher
-Tan-capped catbird
 Tanimbar boobook
 Tanimbar bush warbler
 Tanimbar corella
@@ -9352,7 +9284,6 @@ Tapajos antpitta
 Tapajos fire-eye
 Tapajós hermit
 Tarim babbler
-†Tasman starling
 Tasmanian nativehen
 Tasmanian scrubwren
 Tasmanian thornbill
@@ -9509,8 +9440,8 @@ Tiny sunbird
 Tiny tyrant-manakin
 Tit berrypecker
 Tit hylia
-Titicaca grebe
 Tit-like dacnis
+Titicaca grebe
 Toco toucan
 Tocuyo sparrow
 Todd's antwren
@@ -9604,9 +9535,9 @@ Tufted coquette
 Tufted duck
 Tufted jay
 Tufted puffin
-Tufted titmouse
 Tufted tit-spinetail
 Tufted tit-tyrant
+Tufted titmouse
 Tui
 Tui parakeet
 Tullberg's woodpecker
@@ -9648,7 +9579,6 @@ Tytler's leaf warbler
 Ua Pou monarch
 Udzungwa forest partridge
 Uganda woodland warbler
-†ʻUla-ʻai-hawane
 Ultramarine flycatcher
 Ultramarine grosbeak
 Ultramarine kingfisher
@@ -9842,8 +9772,8 @@ Vogelkop whistler
 Volcano hummingbird
 Volcano junco
 Volcano swiftlet
-Von der Decken's hornbill
 Von Schrenck's bittern
+Von der Decken's hornbill
 Vulturine guineafowl
 Vulturine parrot
 Wagler's toucanet
@@ -9856,15 +9786,15 @@ Wakatobi white-eye
 Wake Island rail
 Wakolo myzomela
 Walden's hornbill
-Wallacean cuckooshrike
-Wallacean drongo
-Wallacean whistler
 Wallace's fairywren
 Wallace's fruit dove
 Wallace's hanging parrot
 Wallace's hawk-eagle
 Wallace's owlet-nightjar
 Wallace's scops owl
+Wallacean cuckooshrike
+Wallacean drongo
+Wallacean whistler
 Wallcreeper
 Waller's starling
 Wandering albatross
@@ -9917,6 +9847,9 @@ West Indian woodpecker
 West Mexican chachalaca
 West Peruvian dove
 West Peruvian screech owl
+Western Bonelli's warbler
+Western Miombo sunbird
+Western Orphean warbler
 Western alpine mannikin
 Western banded snake eagle
 Western barn owl
@@ -9925,7 +9858,6 @@ Western black-eared wheatear
 Western black-headed batis
 Western bluebill
 Western bluebird
-Western Bonelli's warbler
 Western bowerbird
 Western bristlebird
 Western bronze-naped pigeon
@@ -9950,11 +9882,9 @@ Western jackdaw
 Western kingbird
 Western marsh harrier
 Western meadowlark
-Western Miombo sunbird
 Western nicator
 Western olivaceous warbler
 Western oriole
-Western Orphean warbler
 Western osprey
 Western parotia
 Western plantain-eater
@@ -10017,6 +9947,7 @@ White swamphen
 White tern
 White wagtail
 White woodpecker
+White's thrush
 White-backed black tit
 White-backed duck
 White-backed mousebird
@@ -10187,7 +10118,6 @@ White-chested emerald
 White-chested puffbird
 White-chested swift
 White-chested tinkerbird
-†White-chested white-eye
 White-chinned jacamar
 White-chinned myzomela
 White-chinned petrel
@@ -10299,7 +10229,6 @@ White-fronted whitestart
 White-fronted woodpecker
 White-gaped honeyeater
 White-gorgeted flycatcher
-Whitehead
 White-headed babbler
 White-headed barbet
 White-headed brushfinch
@@ -10320,10 +10249,6 @@ White-headed vulture
 White-headed wood hoopoe
 White-headed woodpecker
 White-headed wren
-Whitehead's broadbill
-Whitehead's spiderhunter
-Whitehead's swiftlet
-Whitehead's trogon
 White-hooded babbler
 White-lined antbird
 White-lined honeyeater
@@ -10391,7 +10316,6 @@ White-rumped swiftlet
 White-rumped tanager
 White-rumped triller
 White-rumped vulture
-White's thrush
 White-shouldered antbird
 White-shouldered antshrike
 White-shouldered black tit
@@ -10570,6 +10494,11 @@ White-winged triller
 White-winged warbler
 White-winged widowbird
 White-winged woodpecker
+Whitehead
+Whitehead's broadbill
+Whitehead's spiderhunter
+Whitehead's swiftlet
+Whitehead's trogon
 Whooper swan
 Whooping crane
 Whooping motmot
@@ -10581,8 +10510,8 @@ Wilkins's finch
 Willard's sooty boubou
 Willcocks's honeyguide
 Willet
-Williamson's sapsucker
 Williams's lark
+Williamson's sapsucker
 Willie wagtail
 Willis's antbird
 Willow flycatcher
@@ -10806,7 +10735,6 @@ Yellow-footed gull
 Yellow-footed honeyguide
 Yellow-fronted barbet
 Yellow-fronted canary
-yellow-fronted parrot
 Yellow-fronted tinkerbird
 Yellow-fronted woodpecker
 Yellow-gaped honeyeater
@@ -10814,8 +10742,6 @@ Yellow-green brushfinch
 Yellow-green grosbeak
 Yellow-green tanager
 Yellow-green vireo
-Yellowhammer
-Yellowhead
 Yellow-headed amazon
 Yellow-headed blackbird
 Yellow-headed brushfinch
@@ -10823,13 +10749,6 @@ Yellow-headed caracara
 Yellow-headed manakin
 Yellow-headed warbler
 Yellow-hooded blackbird
-Yellowish bulbul
-Yellowish flycatcher
-Yellowish imperial pigeon
-Yellowish pipit
-Yellowish white-eye
-Yellowish-streaked honeyeater
-Yellowish-streaked lory
 Yellow-knobbed curassow
 Yellow-legged buttonquail
 Yellow-legged flyrobin
@@ -10926,6 +10845,15 @@ Yellow-winged blackbird
 Yellow-winged pytilia
 Yellow-winged tanager
 Yellow-winged vireo
+Yellowhammer
+Yellowhead
+Yellowish bulbul
+Yellowish flycatcher
+Yellowish imperial pigeon
+Yellowish pipit
+Yellowish white-eye
+Yellowish-streaked honeyeater
+Yellowish-streaked lory
 Yemen linnet
 Yemen serin
 Yemen thrush
@@ -10974,3 +10902,75 @@ Zino's petrel
 Zitting cisticola
 Zoe's imperial pigeon
 Zone-tailed hawk
+brown-headed parrot
+yellow-fronted parrot
+ʻAkekeʻe
+ʻAkiapolaʻau
+ʻAkikiki
+ʻAkohekohe
+†Amsterdam wigeon
+ʻAnianiau
+ʻApapane
+†Bermuda flicker
+†Bermuda hawk
+†Bermuda towhee
+†Bishop's oo
+†Black mamo
+†Bonin grosbeak
+†Bonin thrush
+†Christmas sandpiper
+†Grand Cayman thrush
+†Greater koa finch
+†Greater ʻamakihi
+†Guadalupe caracara
+†Hawaii mamo
+†Hawaiʻi ʻōʻō
+†Hoopoe starling
+ʻIʻiwi
+†Kauaʻi ʻakialoa
+†Kauaʻi ʻōʻō
+†Kioea
+†Kona grosbeak
+†Kosrae starling
+†Kākāwahie
+†Kāmaʻo
+†Labrador duck
+†Laysan honeycreeper
+†Lesser koa finch
+†Lesser ʻakialoa
+†Lānaʻi hookbill
+†Marianne white-eye
+†Mascarene parrot
+†Maui Nui ʻakialoa
+†Mauke starling
+†Moorea reed warbler
+†New Zealand merganser
+†Norfolk ground dove
+†North Island piopio
+†North Island takahē
+†Oʻahu nukupuʻu
+†Oʻahu ʻakepa
+†Oʻahu ʻakialoa
+†Oʻahu ʻōʻō
+†Poʻouli
+†Réunion kestrel
+†Réunion night heron
+†Réunion owl
+†Réunion rail
+†Réunion sheldgoose
+†Robust white-eye
+†Rodrigues starling
+†Saint Helena crake
+†Saint Helena cuckoo
+†Saint Helena hoopoe
+†Saint Helena petrel
+†Saint Helena rail
+†San Cristóbal flycatcher
+†Slender-billed grackle
+†South Island piopio
+†Spectacled cormorant
+†Tasman starling
+†White-chested white-eye
+†ʻUla-ʻai-hawane
+ʻŌmaʻo
+†ʻŌʻū
